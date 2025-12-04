@@ -28,7 +28,7 @@ The full project size exceeds **17GB**, which goes beyond GitHub’s free storag
 To keep the repository clean and accessible, only core scripts and project metadata are stored here.
 
 👉 **Download the full `Assets/` folder here:**  
-**Google Drive:** `[<Assets>](https://drive.google.com/drive/folders/1_pXVf04qqTyEOWC2OpLqaTIgmt6KiOjp?usp=sharing)`
+**Google Drive:** [Assets Folder](https://drive.google.com/drive/folders/1_pXVf04qqTyEOWC2OpLqaTIgmt6KiOjp?usp=sharing)
 
 After downloading, place the `Assets/` folder into the root directory of this repository.
 
