@@ -34,6 +34,32 @@ After downloading, place the `Assets/` folder into the root directory of this re
 
 ---
 
-## 📦 Repository Structure  
-Included in this GitHub repo:
+## 🚀 How to Open the Project
 
+1. Clone or download this repository.
+2. Download the **Assets folder** from the Google Drive link.
+3. Place the downloaded `Assets/` folder in the root of the project so the structure becomes:
+/Assets/
+/Packages/
+/ProjectSettings/
+/UserSettings/ (optional)
+4. Open the project in **Unity 2022.x or 2023.x** (use your project's exact version).
+5. Wait for Unity to reimport assets on first load.
+
+## 🥁 About DrumXRoll  
+DrumXRoll is designed to make drumming practice more immersive and intuitive by combining:
+
+- **Visual learning** via spatialized falling notes  
+- **Kinesthetic learning** using real and virtual drums  
+- **Adaptive lesson flows** suited to beginner and intermediate drummers  
+- **Instant feedback** for timing accuracy and consistency  
+
+The system is developed under the **Human-X Interactions Lab (HXIL)** at **De La Salle University** for research on XR-based music learning.
+
+---
+
+## 📜 License  
+This project is for **academic and research purposes only**.  
+Certain proprietary assets (models, music files, textures) cannot be redistributed and are only available via the provided external drive link.
+
+---
