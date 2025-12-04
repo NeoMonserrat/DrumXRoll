@@ -28,7 +28,7 @@ The full project size exceeds **17GB**, which goes beyond GitHub’s free storag
 To keep the repository clean and accessible, only core scripts and project metadata are stored here.
 
 👉 **Download the full `Assets/` folder here:**  
-**Google Drive:** `<insert your Drive link here>`
+**Google Drive:** `[<Assets>](https://drive.google.com/drive/folders/1_pXVf04qqTyEOWC2OpLqaTIgmt6KiOjp?usp=sharing)`
 
 After downloading, place the `Assets/` folder into the root directory of this repository.
 
@@ -43,7 +43,7 @@ After downloading, place the `Assets/` folder into the root directory of this re
 /Packages/
 /ProjectSettings/
 /UserSettings/ (optional)
-4. Open the project in **Unity 2022.x or 2023.x** (use your project's exact version).
+4. Open the project in **Unity 2022.3.55f1** (use your project's exact version).
 5. Wait for Unity to reimport assets on first load.
 
 ## 🥁 About DrumXRoll  
